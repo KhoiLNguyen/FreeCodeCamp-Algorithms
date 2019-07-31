@@ -1,2 +1,2 @@
-# FreeCodeCamp-Intermediate-Algo
+# FreeCodeCamp-Algorithms
 Intermediate Algorithms from FreeCodeCamp
